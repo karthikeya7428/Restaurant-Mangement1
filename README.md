@@ -1,5 +1,5 @@
 # Restaurant Management System (Menu Category Tree - CRUD)
-gg
+
 ## Project Overview
 
 This project implements a **Restaurant Menu Management System** using the C programming language. It uses a **tree data structure (First Child–Next Sibling)** to represent hierarchical menu categories. The system supports basic **CRUD operations** through a menu-driven interface.
